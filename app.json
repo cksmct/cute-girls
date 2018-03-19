@@ -1,8 +1,8 @@
 {
   "pages":[
     "pages/index/index",
-
     "pages/image/image",
+    "pages/logs/logs",
     "pages/random/random"
   ],
   "window":{
